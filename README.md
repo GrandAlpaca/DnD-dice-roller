@@ -26,7 +26,7 @@ Contributions to this project are welcome! If you have any ideas for improvement
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 **Credits:**
-- Created by [Your Name/Username].
+- Created by GrandAlpaca.
 - Inspired by the magic of Dungeons & Dragons.
 
 **Disclaimer:**
