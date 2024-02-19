@@ -1,0 +1,14 @@
+C:\Users\gagey\OneDrive - Oklahoma A and M System\Freshman\Spring2024\MSIS\C#\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe.config
+C:\Users\gagey\OneDrive - Oklahoma A and M System\Freshman\Spring2024\MSIS\C#\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe
+C:\Users\gagey\OneDrive - Oklahoma A and M System\Freshman\Spring2024\MSIS\C#\DiceRoller\DiceRoller\bin\Debug\DiceRoller.pdb
+C:\Users\gagey\OneDrive - Oklahoma A and M System\Freshman\Spring2024\MSIS\C#\DiceRoller\DiceRoller\obj\Debug\DiceRoller.csproj.AssemblyReference.cache
+C:\Users\gagey\OneDrive - Oklahoma A and M System\Freshman\Spring2024\MSIS\C#\DiceRoller\DiceRoller\obj\Debug\DiceRoller.csproj.CoreCompileInputs.cache
+C:\Users\gagey\OneDrive - Oklahoma A and M System\Freshman\Spring2024\MSIS\C#\DiceRoller\DiceRoller\obj\Debug\DiceRoller.exe
+C:\Users\gagey\OneDrive - Oklahoma A and M System\Freshman\Spring2024\MSIS\C#\DiceRoller\DiceRoller\obj\Debug\DiceRoller.pdb
+C:\Users\The Rig\OneDrive - Oklahoma A and M System\Freshman\Spring2024\MSIS\C#\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe.config
+C:\Users\The Rig\OneDrive - Oklahoma A and M System\Freshman\Spring2024\MSIS\C#\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe
+C:\Users\The Rig\OneDrive - Oklahoma A and M System\Freshman\Spring2024\MSIS\C#\DiceRoller\DiceRoller\bin\Debug\DiceRoller.pdb
+C:\Users\The Rig\OneDrive - Oklahoma A and M System\Freshman\Spring2024\MSIS\C#\DiceRoller\DiceRoller\obj\Debug\DiceRoller.csproj.AssemblyReference.cache
+C:\Users\The Rig\OneDrive - Oklahoma A and M System\Freshman\Spring2024\MSIS\C#\DiceRoller\DiceRoller\obj\Debug\DiceRoller.csproj.CoreCompileInputs.cache
+C:\Users\The Rig\OneDrive - Oklahoma A and M System\Freshman\Spring2024\MSIS\C#\DiceRoller\DiceRoller\obj\Debug\DiceRoller.exe
+C:\Users\The Rig\OneDrive - Oklahoma A and M System\Freshman\Spring2024\MSIS\C#\DiceRoller\DiceRoller\obj\Debug\DiceRoller.pdb
