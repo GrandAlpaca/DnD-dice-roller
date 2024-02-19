@@ -34,4 +34,4 @@ This tool is intended for recreational use only and is not affiliated with Wizar
 
 ---
 
-Thank you for using the D&D Command Prompt Dice Roller! May your rolls always be in your favor.
+Thank you for using the D&D Command Prompt Dice Roller! 
